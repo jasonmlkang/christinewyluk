@@ -34,3 +34,11 @@ markdown: kramdown
 
 sass:
   style: compressed
+
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - config.ru
+
